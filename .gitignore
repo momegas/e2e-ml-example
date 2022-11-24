@@ -1,2 +1,3 @@
 model.json
 .venv
+**/__pycache__
